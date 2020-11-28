@@ -1,0 +1,16 @@
+{
+  "admin": {
+    "username": "GLOM79",
+    "password": "746c31b90c0335367e487692e201f2b2",
+    "loginToken": "a158bcd54404881ad61f2acbeeb76135",
+    "logs": [
+      {
+        "time": "2020-01-11T15:23:07.971Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
